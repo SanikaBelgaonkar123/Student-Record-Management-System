@@ -48,35 +48,26 @@ http://localhost:8501
 
 
 ---
-
 ## 📸 Project Screenshots
 
-### Add Student Page
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205114.png)
 
-### Student Added
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205256.png)
 
-### View Students
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205326.png)
 
-### Search Student
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205435.png)
 
-### Search Result
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205500.png)
 
-### Class Statistics
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205527.png)
 
-### Grade Distribution
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205551.png)
 
-### Final Output
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205614.png)
 
+...
 
----
 ## 📁 Project Structure
 
 ```
