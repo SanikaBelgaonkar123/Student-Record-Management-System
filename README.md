@@ -54,15 +54,17 @@ http://localhost:8501
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205614.png)
 
 ---
-
 ## 📁 Project Structure
+
+```
 Student-Record-Management-System
 │
 ├── app.py
 ├── explanation.txt
-├── Screenshot
-│ └── Screenshot.png
+├── Screenshot/
+│   └── Screenshot.png
 └── README.md
+```
 
 
 
