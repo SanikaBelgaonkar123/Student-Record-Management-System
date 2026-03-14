@@ -65,7 +65,6 @@ http://localhost:8501
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205551.png)
 
 ![Screenshot](Screenshot/Screenshot%202026-03-13%20205614.png)
-
 ...
 
 ## 📁 Project Structure
